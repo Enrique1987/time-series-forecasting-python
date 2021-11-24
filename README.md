@@ -14,7 +14,7 @@ Please consider buying the books and courses: Invest in knowledge and support cr
 <br>
     <div class="tip" markdown="1"> </div>
 	
-   You can Buy the book [[here](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)]
+   Here you can buy the book [[here](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)]
    - 01_Time_Series_Load_Exploring[[link]( 1_time_series_forecasting_with_python/code/01_Time_Series_Load_Exploring.ipynb )]
    - 02_Data_Visualization [[link]( 1_time_series_forecasting_with_python/code/02_Data_Visualization.ipynb ) ]
    - 03_Resampling _and_Interpolation  [[link]( 1_time_series_forecasting_with_python/code/03_Resampling_and_Interpolation.ipynb ) ]    
