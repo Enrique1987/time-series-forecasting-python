@@ -4,12 +4,13 @@
 
 ===========
 
-In this repository include all my personal notes and the slides taken during the differents curses and books.
+This repository includes all my personal notes taken during the different courses and books.
+Please consider buying the books and courses: Invest in knowledge and support creators.
 
 ## Time Series, Analysis and Forecasting
 
 <details open>
-<summary>1_time_series_forecasting_with_python</summary>
+<summary>1_time_series_forecasting_with_python[[book](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)]</summary>
 <br>
     <div class="tip" markdown="1"> </div>
   
