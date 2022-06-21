@@ -8,16 +8,5 @@ This repository includes all my personal notes taken during the different course
 Please consider buying the books and courses: Invest in knowledge and support creators.
 
 ## Time Series, Analysis and Forecasting
+ - 1_time_series_forecasting_with_python: You can buy the book [[here](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)]
 
-<details open>
-<summary>1_time_series_forecasting_with_python</summary>
-<br>
-    <div class="tip" markdown="1"> </div>
-	
-   You can buy the book [[here](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)]
-   - 01_Time_Series_Load_Exploring[[link](1_time_series_forecasting_with_python/code/01_Time_Series_Load_Exploring.ipynb )]
-   - 02_Data_Visualization [[link](1_time_series_forecasting_with_python/code/02_Data_Visualization.ipynb )]
-   - 03_Resampling _and_Interpolation[[link](1_time_series_forecasting_with_python/code/03_Resampling_and_Interpolation.ipynb)]
-   - 04_Power_Transforms[[link](1_time_series_forecasting_with_python/code/04_Power_Transforms.ipynb)]   
-  </md></br>
-</details>
